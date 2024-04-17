@@ -19,15 +19,17 @@ Welcome to Treblecross Game! This is a simple console-based game where two playe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/treblecross-game.git
+   git clone https://github.com/n10962646/Treblecross.git
    ```
 
 ## Game:
 
 **First display: Game selection**
+
 ![Image Alt text](/Images/Image_1.png "First display: Game selection")
 
 **Second display: Game logic**
+
 ![Image Alt text](/Images/Image_2.png "Second display: Game logic")
 
 ## Game Controls:
