@@ -24,9 +24,9 @@ Welcome to Treblecross Game! This is a simple console-based game where two playe
 
 ## Game:
 
-![Image Alt text](/Images/Image_1.jpg "First display: Game selection"))
+![Image Alt text](/Images/Image_1.png "First display: Game selection"))
 
-![Image Alt text](/Images/Image_2.jpg "Second display: Game logic"))
+![Image Alt text](/Images/Image_2.png "Second display: Game logic"))
 
 ## Game Controls:
 
