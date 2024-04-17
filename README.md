@@ -22,11 +22,11 @@ Welcome to Treblecross Game! This is a simple console-based game where two playe
    git clone https://github.com/your-username/treblecross-game.git
    ```
 
-## Build and Run:
+## Game:
 
-1. Open the solution file (`Treblecross.sln`) in Visual Studio.
-2. Build the solution.
-3. Run the application.
+![Image Alt text](/Images/Image_1.jpg "First display: Game selection"))
+
+![Image Alt text](/Images/Image_2.jpg "Second display: Game logic"))
 
 ## Game Controls:
 
